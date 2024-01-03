@@ -10,6 +10,9 @@ iris/
 # library tutorials
 mesa*tutorial.ipynb
 
+# vscode stuff
+.vscode/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
