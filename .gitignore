@@ -3,6 +3,9 @@
 *.pyo
 *.pyd
 __pycache__/
+*.csv
+dataout/
+iris/
 
 # library tutorials
 mesa*tutorial.ipynb
